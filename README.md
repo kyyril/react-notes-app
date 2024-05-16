@@ -1,2 +1,3 @@
 # react-notes-app
-build notes app with react
+build notes app with react js
+
