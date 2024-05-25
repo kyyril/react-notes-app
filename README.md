@@ -1,12 +1,11 @@
 # react-notes-app
 
 # Feat:
-1 - Can store records The web server can store records added through the web application. Simply store them in the server memory in the form of a JavaScript array.
 
-2 - Can display notes The next is that the web server can display notes.
+1 - Can display notes
 
-3 - Can modify notes The third is that the web server can modify notes. The changes can be in the form of title, content, or note tags. 
+2 - Can modify notes. The changes can be in the form of title, content, or note tags. 
 
-4 - Can delete notes Finally, the web server can delete notes.
+3 - Can delete notes 
 
-5 - Can search for notes
+4 - Can search for notes
