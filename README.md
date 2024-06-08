@@ -8,26 +8,26 @@
   - Can search for notes
 
 # Folder
- ┣ 📂node_modules
- ┣ 📂public
- ┃ ┗ 📜vite.svg
- ┣ 📂src
- ┃ ┣ 📂components
- ┃ ┃ ┣ 📜ArchiveButton.jsx
- ┃ ┃ ┣ 📜DeleteButton.1.jsx
- ┃ ┃ ┣ 📜Navbar.jsx
- ┃ ┃ ┣ 📜NoteApp.jsx
- ┃ ┃ ┣ 📜NoteAppBody.jsx
- ┃ ┃ ┣ 📜NoteItem.jsx
- ┃ ┃ ┣ 📜NoteItemBody.jsx
- ┃ ┃ ┣ 📜NoteList.jsx
- ┃ ┃ ┗ 📜Search.jsx
- ┃ ┣ 📂styles
- ┃ ┃ ┗ 📜style.css
- ┃ ┣ 📂utils
- ┃ ┃ ┗ 📜index.js
- ┃ ┗ 📜index.jsx
- ┣ 📜.gitignore
- ┣ 📜index.html
- ┣ 📜package-lock.json
- ┗ 📜package.json
+┣ 📂node_modules
+┣ 📂public
+┃ ┗ 📜vite.svg
+┣ 📂src
+┃ ┣ 📂components
+┃ ┃ ┣ 📜ArchiveButton.jsx
+┃ ┃ ┣ 📜DeleteButton.1.jsx
+┃ ┃ ┣ 📜Navbar.jsx
+┃ ┃ ┣ 📜NoteApp.jsx
+┃ ┃ ┣ 📜NoteAppBody.jsx
+┃ ┃ ┣ 📜NoteItem.jsx
+┃ ┃ ┣ 📜NoteItemBody.jsx
+┃ ┃ ┣ 📜NoteList.jsx
+┃ ┃ ┗ 📜Search.jsx
+┃ ┣ 📂styles
+┃ ┃ ┗ 📜style.css
+┃ ┣ 📂utils
+┃ ┃ ┗ 📜index.js
+┃ ┗ 📜index.jsx
+┣ 📜.gitignore
+┣ 📜index.html
+┣ 📜package-lock.json
+┗ 📜package.json
